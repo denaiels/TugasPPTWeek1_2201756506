@@ -1,0 +1,14 @@
+Nama : Daniel Santoso
+NIM : 2201756506
+Kelas : LB01
+
+1. How would you define Machine Learning? 
+2. Would you frame the problem of spam detection as a supervised learning problem or an unsupervised learning problem?
+3. What are the two most common supervised tasks?
+4. Can you name four common unsupervised tasks?
+
+Answer:
+1. Machine Learning is an application of Artificial Intelligence (AI) that provides computers the ability to learn without being explicitly programmed.
+2. I would frame spam detection to both supervised and unsupervised learning, but mostly supervised. Why supervised? Because to detect spam emails, it is needed to give the examples of title and behaviour of the sender to the system and label it as spam. Moreover, there is a feature in most emails where users can flag an email as spam, and by that give a supervised learning to the system.
+3. Regression and Classification.
+4. Clustering, Visualisation, Dimensionality Reduction, Association Rule Learning.
